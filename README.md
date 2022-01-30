@@ -8,13 +8,13 @@
 
 ### My links!:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][itchio]
+[<img align="left" alt="Portfolio Website" width="22px" src="https://saunt-nathannbb.vercel.app/_next/image?url=%2Fimages%2FPanda-Hover.png&w=48&q=75" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://scontent.fyyz1-2.fna.fbcdn.net/v/t39.30808-6/267766462_10158511220212823_1704865937771891065_n.png?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ZzeSuQT_MwkAX9DbFuB&_nc_ht=scontent.fyyz1-2.fna&oh=00_AT__c02PDnugUImvSS1Zl7LjNCTjhP50uG-477AyrQ9Njw&oe=61FC8BE5" />][linkedin]
+[<img align="left" alt="itch.io" width="22px" src="https://scontent.fyyz1-2.fna.fbcdn.net/v/t1.6435-9/75349163_3138125812870642_5466393087381078016_n.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=TXDozvT9TSYAX_Y3_BM&_nc_ht=scontent.fyyz1-2.fna&oh=00_AT_0MtCMtZe4P8bXYnIjsbw6mR1tdrhHkC2bW5I5--cpZA&oe=621C1468" />][itchio]
 
 <br />
 
-### Languages and Tools:
+### I Have Experience With!:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
