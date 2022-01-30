@@ -1,10 +1,13 @@
-### Hi, I’m Nathan, also known as [saunt][website] and this is my personal Git Hub page! 👋 
+### Hi, I’m Nathan, also known as [saunt][website] and this is my personal Git Hub Page! 👋 
 
 [![Website](https://img.shields.io/badge/Portfolio%20Website-Online-green)](https://saunt-nathannbb.vercel.app/)
 
 ## About Me!
 
-- My name is Nathan!
+- 👨‍🎓 I'm a Computer Science Student At Ryerson University Enrolled in their Co-op Program! 
+- 🌱 I'm interested in Game Developement and enjoy making and playing my own games!
+- 🎮 I'm currently learning Web development and have created my very own [Portfolio Website][website]
+- 🥇 My Goals are to create a long term Video Game Project and start my own YouTube channel for DevLogs!
 
 ### My links!:
 
